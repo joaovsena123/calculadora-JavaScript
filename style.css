@@ -15,14 +15,14 @@ div#corpo {
   width: 280px;
   padding: 16px;
   border-radius: 16px;
-  background: #0a0a0e;
+  background: #030805;
 }
 
 .visor {
   padding: 10px 12px;
   margin-bottom: 12px;
   border-radius: 8px;
-  background: #313244;
+  background: #045512;
   color: #fff;
   font-size: 2rem;
   text-align: right;
