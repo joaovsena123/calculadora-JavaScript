@@ -1,7 +1,7 @@
 const visor = document.getElementById("visor");
 const teclas = document.querySelector(".teclas");
 
-let atual = "0";
+let atual = "0";   
 let anterior = null;
 let operadorAtual = null;
 let aguardandoNumero = false;
